@@ -405,10 +405,10 @@ function CustomerWebsite() {
 
                     <div className="heroImg">
 
-                        <img
-                            src="/images/zosha-banner.jpg"
-                            alt="ZOSHA"
-                        />
+                        <img 
+                              src="/ImportExport.png" 
+                            alt="ZOSHA International Traders" 
+                            />
 
                     </div>
 
