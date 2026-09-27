@@ -406,7 +406,7 @@ function CustomerWebsite() {
                     <div className="heroImg">
 
                         <img 
-                              src="/ImportExport.png" 
+                           src="/images/ImportExport.png"
                             alt="ZOSHA International Traders" 
                             />
 
